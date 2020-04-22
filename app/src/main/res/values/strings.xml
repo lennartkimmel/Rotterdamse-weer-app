@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weer in Rotterdam</string>
+    <string name="loading">Loading...</string>
+    <string name="ga_naar_instellingen_om_het_weer_om_te_zetten_naar_temperatuur">In instellingen kan het weer omgezet worden naar temperatuur </string>
+    <string name="het_weer_is_vandaag">Het weer is vandaag:</string>
+    <string name="het_weer">Het weer</string>
+    <string name="instellingen">Instellingen</string>
+    <string name="logo">logo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lijstje">Lijstje</string>
+    <string name="locatie">Locatie</string>
+    <string name="verander_locatie">Verander Locatie</string>
+    <string name="longtitude">Longtitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="submit">Submit</string>
+</resources>

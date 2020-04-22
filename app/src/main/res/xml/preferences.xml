@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:background="#6E5F5F"
+        android:key="general_settings"
+
+        android:title="Algemene instellingen">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="show_temp"
+            android:summary="Ruil het weer om voor graden Kelvin"
+            android:title="Graden Kelvin" />
+
+    </PreferenceCategory>
+</PreferenceScreen>
